@@ -10,8 +10,6 @@ Since RIZEN DAYS is built as a zero-build Single Page Application (SPA), getting
 2. Open `index.html` in any modern web browser.
 3. *That's it!* No `npm install`, no build steps, and no API keys required.
 
-## 🖼️ Preview
-*(Add a screenshot of the dashboard here)*
 
 ## 🎯 Design Philosophy
 RIZEN DAYS was designed with a "Glassmorphism" aesthetic, prioritizing a clean, distraction-free environment. It dynamically adapts its theme and particle background effects based on the current time of day and weather conditions (e.g., falling rain particles on rainy days, dark blue UI at night).
